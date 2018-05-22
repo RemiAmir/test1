@@ -8,7 +8,7 @@ int main()
  
   printf("Enter a number to calculate its factorial\n");
   scanf("%d", &n);
- 
+  printf("Enter a number to calculate its factorial\n"); printf("Enter a number to calculate its factorial\n"); printf("Enter a number to calculate its factorial\n"); printf("Enter a number to calculate its factorial\n"); printf("Enter a number to calculate its factorial\n"); printf("Enter a number to calculate its factorial\n"); printf("Enter a number to calculate its factorial\n"); printf("Enter a number to calculate its factorial\n"); printf("Enter a number to calculate its factorial\n");
   for (c = 1; c <= n; c++)
     fact = fact * c;
  
